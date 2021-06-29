@@ -1,0 +1,17 @@
+{
+  "PartyDetails": {
+    "TypeOfParty": "Individual",
+    "Language": "English"
+  },
+  "PersonalDetails": {
+    "FirstName": "Kim",
+    "LastName": "Smith",
+    "Gender": "male"
+  },
+  "Propertydetails": {
+    "Land": "Kim",
+    "House": "Smith"
+  }
+}
+
+
